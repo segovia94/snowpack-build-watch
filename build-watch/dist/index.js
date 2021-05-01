@@ -3,8 +3,8 @@
  * When you're ready to start on your site, clear the file. Happy hacking!
  **/
 
-import 'jquery-hoverintent';
-import confetti from 'canvas-confetti';
+import '../_snowpack/pkg/jquery-hoverintent.v1.10.1.js';
+import confetti from '../_snowpack/pkg/canvas-confetti.v1.4.0.js';
 
 confetti.create(document.getElementById('canvas'), {
   resize: true,

@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "canvas-confetti": "./canvas-confetti.js",
+    "jquery-hoverintent": "./jquery-hoverintent.js"
+  }
+}
